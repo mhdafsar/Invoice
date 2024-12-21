@@ -1,0 +1,35 @@
+
+      @media screen 
+      {
+
+      }
+      @media print
+      {
+        .body
+        {
+          width:100%;
+        }
+        .container
+        {
+          width:100%;
+        }
+        .form-control
+        {
+          border: 0px;
+        }
+        .btn
+        {
+          display:none;
+        }
+
+        .NoPrint
+        {
+          display:none;
+        }
+        
+        
+      }
+      
+
+
+
